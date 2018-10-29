@@ -14,4 +14,4 @@ Then to sync up:
 
 To Build:
 
-    . build/envsetup.sh && lunch serein_<device>-userdebug && make -jx
+    . build/envsetup.sh && lunch serein_<device>-userdebug && make bacon
