@@ -6,7 +6,7 @@ Syncing Source
 --------------
 To initialise local sereinOS repositories in your machine:
 
-    repo init -u https://github.com/Serein-OS/manifest -b pie-release
+    repo init -u https://github.com/Serein-OS/platform_manifest -b pie-release
 
 Then to sync up:
 
