@@ -7,12 +7,12 @@
   <!-- sereinOS remote -->
   <remote  name="serein"
            revision="pie-release"
-           fetch="https://github.com/Serein-OS/"
+           fetch="https://github.com/Serein-OS/" />
 		   
   <!-- GZOSP remote -->	
    <remote name="gzosp"
            revision="9.0"
-           fetch="https://github.com/GZOSP"
+           fetch="https://github.com/GZOSP" />
 
   <!-- GZOSP -->
   <project path="manifest" name="platform_manifest" remote="serein" />
