@@ -78,5 +78,6 @@
   <project path="system/update_engine" name="system_update_engine" groups="pdk" remote="gzosp" />
   <project path="system/vold" name="system_vold" groups="pdk" remote="gzosp" />
   <project path="vendor/serein" name="android_vendor_serein" remote="serein" />
+  <project path="vendor/sereinextras" name="android_vendor_sereinExtras" remote="serein"/>
 
 </manifest>
