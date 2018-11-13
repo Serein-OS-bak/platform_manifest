@@ -41,6 +41,7 @@
   <project path="art" name="art" groups="pdk" remote="gzosp" />
   <project path="bootable/recovery" name="bootable_recovery" groups="pdk" remote="gzosp" />
   <project path="bionic" name="android_bionic" remote="serein" />
+  <project path="development" name="android_development" groups="developers,pdk-cw-fs,pdk-fs" remote="serein" />
   <project path="device/generic/goldfish" name="device_generic_goldfish" groups="pdk" remote="gzosp" />
   <project path="device/serein/sepolicy" name="android_device_serein_sepolicy" remote="serein" />
   <project path="external/exfat" name="external_exfat" remote="gzosp" />
